@@ -1,0 +1,24 @@
+C:\Users\bilgiislem\source\repos\Sistem_Bilgileri\Sistem_Bilgileri\bin\Debug\Sistem_Bilgileri.exe.config
+C:\Users\bilgiislem\source\repos\Sistem_Bilgileri\Sistem_Bilgileri\bin\Debug\Sistem_Bilgileri.exe
+C:\Users\bilgiislem\source\repos\Sistem_Bilgileri\Sistem_Bilgileri\bin\Debug\Sistem_Bilgileri.pdb
+C:\Users\bilgiislem\source\repos\Sistem_Bilgileri\Sistem_Bilgileri\obj\Debug\Sistem_Bilgileri.Properties.Resources.resources
+C:\Users\bilgiislem\source\repos\Sistem_Bilgileri\Sistem_Bilgileri\obj\Debug\Sistem_Bilgileri.csproj.GenerateResource.cache
+C:\Users\bilgiislem\source\repos\Sistem_Bilgileri\Sistem_Bilgileri\obj\Debug\Sistem_Bilgileri.csproj.CoreCompileInputs.cache
+C:\Users\bilgiislem\source\repos\Sistem_Bilgileri\Sistem_Bilgileri\obj\Debug\Sistem_Bilgileri.exe
+C:\Users\bilgiislem\source\repos\Sistem_Bilgileri\Sistem_Bilgileri\obj\Debug\Sistem_Bilgileri.pdb
+C:\Users\bilgiislem\source\repos\Sistem_Bilgileri\Sistem_Bilgileri\obj\Debug\Sistem_Bilgileri.Form1.resources
+C:\Users\bilgiislem\source\repos\Sistem_Bilgileri\Sistem_Bilgileri\obj\Debug\Sistem_Bilgileri.Loading.resources
+C:\Users\bilgiislem\source\repos\Sistem_Bilgileri\Sistem_Bilgileri\obj\Debug\Sistem_Bilgileri.Ayarlar.resources
+C:\Users\bilgiislem\source\repos\Sistem_Bilgileri\Sistem_Bilgileri\obj\Debug\Sistem_Bilgileri.csprojAssemblyReference.cache
+C:\Users\bilgiislem\source\repos\Sistem_Bilgileri - Kopya\Sistem_Bilgileri\bin\Debug\Sistem_Bilgileri.exe.config
+C:\Users\bilgiislem\source\repos\Sistem_Bilgileri - Kopya\Sistem_Bilgileri\bin\Debug\Sistem_Bilgileri.exe
+C:\Users\bilgiislem\source\repos\Sistem_Bilgileri - Kopya\Sistem_Bilgileri\bin\Debug\Sistem_Bilgileri.pdb
+C:\Users\bilgiislem\source\repos\Sistem_Bilgileri - Kopya\Sistem_Bilgileri\obj\Debug\Sistem_Bilgileri.csprojAssemblyReference.cache
+C:\Users\bilgiislem\source\repos\Sistem_Bilgileri - Kopya\Sistem_Bilgileri\obj\Debug\Sistem_Bilgileri.Ayarlar.resources
+C:\Users\bilgiislem\source\repos\Sistem_Bilgileri - Kopya\Sistem_Bilgileri\obj\Debug\Sistem_Bilgileri.Form1.resources
+C:\Users\bilgiislem\source\repos\Sistem_Bilgileri - Kopya\Sistem_Bilgileri\obj\Debug\Sistem_Bilgileri.Loading.resources
+C:\Users\bilgiislem\source\repos\Sistem_Bilgileri - Kopya\Sistem_Bilgileri\obj\Debug\Sistem_Bilgileri.Properties.Resources.resources
+C:\Users\bilgiislem\source\repos\Sistem_Bilgileri - Kopya\Sistem_Bilgileri\obj\Debug\Sistem_Bilgileri.csproj.GenerateResource.cache
+C:\Users\bilgiislem\source\repos\Sistem_Bilgileri - Kopya\Sistem_Bilgileri\obj\Debug\Sistem_Bilgileri.csproj.CoreCompileInputs.cache
+C:\Users\bilgiislem\source\repos\Sistem_Bilgileri - Kopya\Sistem_Bilgileri\obj\Debug\Sistem_Bilgileri.exe
+C:\Users\bilgiislem\source\repos\Sistem_Bilgileri - Kopya\Sistem_Bilgileri\obj\Debug\Sistem_Bilgileri.pdb

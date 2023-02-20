@@ -1,0 +1,35 @@
+----------[Cihaz Bilgileri]----------
+Cihaz Adı: alfakimya.net
+Kullanıcı Adı: bilgiislem
+Profil Yolu: \\IT-EYUP-LP\c$\Users\bilgiislem
+PC Adı: IT-EYUP-LP
+Son Format Tarihi: 12.10.2022 15:08:42
+İşletim Sistemi: Microsoft Windows 10 Pro
+IP Adresi: 10.0.0.82
+Son Açılış Tarihi: 15.02.2023 12:00:06
+Çalışma Süresi: 4 Gün 21 Saat 16 Dakika 
+
+
+----------[Harddisk Özellikleri]----------
+Model: SAMSUNG MZALQ512HBLU-00BL1
+Harddisk Boyut: 476 GB
+
+
+----------[Grafik Ekran Kartı Özellikleri]----------
+Grafik Adı: Intel(R) Iris(R) Xe Graphics
+Grafik Ram: 1 GB
+Çözünürlük: 1920 x 1080
+Driver Version: 31.0.101.3889
+
+
+----------[İşlemci Özellikleri]----------
+İşlemci Üreticisi: GenuineIntel
+İşlemci Adı: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+CPU Mimarisi: x64
+İşlemci Çekirdek Sayısı: 8
+
+
+----------[Ram Özellikleri]----------
+Toplam RAM: 16 GB DDR4 3200 MHz
+Toplam Slot: 1
+Boş Slot: 0
