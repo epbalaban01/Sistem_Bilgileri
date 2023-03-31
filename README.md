@@ -1,4 +1,5 @@
 # Sistem Bilgileri
+<p align="center"><img src="https://socialify.git.ci/epbalaban01/Sistem_Bilgileri/image?name=1&amp;owner=1&amp;theme=Light" alt="project-image"></p>
 
 Windows form uygulamasını ve Visual Studio'yu kullanarak Sistem Bilgileri otomasyonu yaptım.
 
